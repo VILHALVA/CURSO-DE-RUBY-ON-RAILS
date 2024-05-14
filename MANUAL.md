@@ -35,6 +35,7 @@ Isso deve exibir a versão do Rails que foi instalada.
    ```
 
 5. Execute o servidor Rails usando o seguinte comando:
+
   **LINUX/MACOS:**
    ```
    bin/rails server
@@ -67,6 +68,7 @@ Quando você baixa um projeto do GitHub que é desenvolvido em Ruby on Rails e d
    ```
 
 4. **Inicie o servidor Rails**: Depois de instalar as dependências e configurar o banco de dados (se necessário), você pode iniciar o servidor Rails usando o comando `rails server` ou `rails s`.
+
   **LINUX/MACOS:**
    ```
    bin/rails server
